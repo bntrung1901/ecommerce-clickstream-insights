@@ -15,6 +15,7 @@ This repo is recruiter-friendly and reproducible.
 > RFM overview: **~697.5K customers**, avg **Recency = 25**, **Frequency = 3**, **Avg TotalRevenue ≈ 63.14M**.
 
 ## 🗂 Repository structure
+```
 Ecommerce-clickstream-dashboard/
 ├─ Power BI/
 │  ├─ Ecommerce Customer Insights Dashboard.pbix
@@ -42,6 +43,7 @@ Ecommerce-clickstream-dashboard/
 ├─ LICENSE
 ├─ .gitignore
 └─ .gitattributes
+```
 
 ## ⚙️ Setup
 ```bash
